@@ -1,0 +1,14 @@
+.pokedex-title {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem 0;
+    color: #666;
+  }
+  
+  .pokedex-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+  }
+  

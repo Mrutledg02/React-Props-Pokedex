@@ -8,7 +8,6 @@ Pokedex is a simple React application that displays a collection of Pokémon car
 ## 🚀 Features
 - **Displays a Grid of Pokémon Cards**: Each card shows a Pokémon’s name, type, and experience.
 - **Dynamically Generated Cards**: Uses React components to display Pokémon.
-- **Retro Pokémon Styling**: Uses Google Fonts for a classic Game Boy aesthetic.
 - **Reusable Components**: Built using modular React components.
 
 ## 🛠️ Technologies Used
@@ -17,5 +16,3 @@ Pokedex is a simple React application that displays a collection of Pokémon car
 - CSS (Custom Styling)
 - Google Fonts (`Press Start 2P`)
 - Pokémon API Sprites
-
-## 📂 Project Structure

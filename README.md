@@ -1,12 +1,21 @@
-# React + Vite
+# 📖 Pokedex - React Pokémon Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pokedex is a simple React application that displays a collection of Pokémon cards with their stats, including type and experience. This project is a part of learning React props, component structuring, and styling.
 
-Currently, two official plugins are available:
+## 📸 Screenshot
+![Pokedex Screenshot](./assets/Screenshot_2025-03-13_45944.png) <!-- Replace with actual image path -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Displays a Grid of Pokémon Cards**: Each card shows a Pokémon’s name, type, and experience.
+- **Dynamically Generated Cards**: Uses React components to display Pokémon.
+- **Retro Pokémon Styling**: Uses Google Fonts for a classic Game Boy aesthetic.
+- **Reusable Components**: Built using modular React components.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
+- React (with Vite)
+- JavaScript (ES6)
+- CSS (Custom Styling)
+- Google Fonts (`Press Start 2P`)
+- Pokémon API Sprites
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
